@@ -11,8 +11,12 @@ body {
   background-color: #3a2727;
 }
 
-body a, body ul, body li {
+body ul, body li {
   list-style: none;
+}
+
+body a {
+  text-decoration: none;
 }
 
 .element .element__body .element__btn, .element .element__body .element__line__meny {
